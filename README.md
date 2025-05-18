@@ -51,3 +51,7 @@ This model helps:
 -Improve prediction accuracy using ensemble learning.
 
 -Apply deep learning and gradient boosting for financial data modeling.
+
+OUTPUTS:
+![image](https://github.com/user-attachments/assets/df2d775c-1abc-4676-b0c1-7629fc6b1ee2)
+
