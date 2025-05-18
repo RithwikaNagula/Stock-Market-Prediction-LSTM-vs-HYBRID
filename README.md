@@ -53,10 +53,13 @@ This model helps:
 -Apply deep learning and gradient boosting for financial data modeling.
 
 OUTPUTS:
+
 Comparing LSTM vs Hybrid Prediction
 ![image](https://github.com/user-attachments/assets/df2d775c-1abc-4676-b0c1-7629fc6b1ee2)
+
 Prediction Plot
 ![image](https://github.com/user-attachments/assets/ff288987-f9fb-4c85-b210-663cf6139108)
+
 30-Day Forecast
 ![image](https://github.com/user-attachments/assets/1a9e79fd-5197-44e1-b5ce-6d71d4afa964)
 
