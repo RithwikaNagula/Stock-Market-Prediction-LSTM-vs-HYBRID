@@ -32,7 +32,7 @@ Technologies Used
 
 1. Clone the repository:
 
-   git clone https://github.com/MNikhil2004/Stock_Price_Prediction-LSTM-vs-HYBRID-.git
+   git clone https://github.com/RithwikaNagula/Stock-Market-Prediction-LSTM-vs-HYBRID.git
    cd Stock_Price_Prediction-LSTM-vs-HYBRID-
 
    
