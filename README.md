@@ -3,6 +3,9 @@ Stock Price Prediction: LSTM vs Hybrid (LSTM + XGBoost)
 
 This project compares the performance of a pure LSTM model versus a hybrid model that combines LSTM for feature extraction and XGBoost for final prediction. It focuses on forecasting stock prices and generating a 30-day future outlook based on historical data.
 
+Live Demo:
+https://stock-market-price-prediction-lstm-vs-hybrid.streamlit.app/
+
 
 Overview
 
